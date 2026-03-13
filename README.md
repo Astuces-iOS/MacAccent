@@ -1,4 +1,4 @@
-# IMacAccent
+# MacAccent
 
 Cette App vous permet d'avoir accès aux couleurs d'accent des iMac M1. Si vous ne le saviez pas chaque iMac M1 à une couleur accente sauf pour le iMac M1 gris. 
 
